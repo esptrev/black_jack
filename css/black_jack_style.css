@@ -1,0 +1,18 @@
+*{
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    text-align: center;
+    width: 95%;
+    margin: auto;
+}
+#logo\ banner{
+    width: 75%;
+    border: 20px solid; color: black;
+}
+#carousel{
+    width: 90%;
+    align-content: center;
+}

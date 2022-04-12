@@ -1,0 +1,98 @@
+body {
+    background-color: darkgray;
+    padding-top: 2em;
+}
+#topDiv{
+    padding: 0;
+}
+#header{
+    position: fixed;
+    top: 3.25em;
+    background-color: white;
+    border: dashed red 2px;
+    width: 100%;
+    height: 3.5em;
+    padding: 0;
+}
+#mainLogo{
+    height: 105px;
+    width: 105px;
+    border: dashed blue 2px;
+}
+#logoDiv{
+
+}
+
+h4 {
+    font-family: 'Anton', sans-serif;
+    font-size: 34px;
+    text-align: center;
+
+}
+#nav {
+    border: solid darkgray 2px;
+}
+h6{
+    font-family: 'Abel', sans-serif;
+    font-size: 14px;
+}
+h5  {
+    font-family: 'Anton', sans-serif;
+    font-size: 28px;
+}
+h3  {
+    font-family: 'Abel',sans-serif;
+    font-size: 24px;
+}
+
+.bigDot{
+    font-family: 'Anton', sans-serif;
+    display: flex;
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    border: white solid 3px;
+    color: white;
+    font-size: 16px;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.design{
+    background-color: #e6563b;
+}
+.develop{
+    background-color: #eb9d3a;
+}
+.support{
+    background-color: #7cb06c;
+}
+.host{
+    background-color: #00aba9;
+}
+img {
+    width: 200px;
+    height: 125px;
+    border: solid white 5px;
+    border-radius: 5px;
+
+}
+p {
+    font-family: 'Abel', sans-serif;
+    font-size: 12px;
+
+}
+
+.smallDot {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: white solid 1px;
+    font-size: 10px;
+    font-family: 'Anton',sans-serif;
+    margin: 0;
+}
+
